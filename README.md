@@ -1,2 +1,2 @@
-# Star-Residentz
-A Hotel Booking PWA using firebase
+# one_with_angular
+johnpapa
